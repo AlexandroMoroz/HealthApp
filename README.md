@@ -17,7 +17,7 @@ Información del Proyecto
   </tr>
   <tr>
     <td>Fecha de fin</td>
-    <td>05/08/2024</td>
+    <td>15/08/2024</td>
   </tr>
  
 </table>
